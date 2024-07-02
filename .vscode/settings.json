@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.v": "verilog",
+        "e19338-co222-project-m2-t1.c.C": "cpp",
+        "e19338-co222-project-m2-t2.c.C": "cpp",
+        "e19338-co222-project-m2-t3.c.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp"
+    }
+}
